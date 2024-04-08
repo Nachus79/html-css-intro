@@ -1,0 +1,11 @@
+body 
+         {background-color: aqua;
+          color: black;
+         }
+
+#students {
+         background-color: rgb(90, 186, 162);
+         border-style: solid;
+         border-width: 10px;
+         border-color: blue;
+          }
